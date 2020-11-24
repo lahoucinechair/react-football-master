@@ -2,7 +2,7 @@
   "name": "react-football",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://imandb.github.io/react-football/",
+  "homepage": "https://lahoucinechair.github.io/react-football-master/",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   },
   "browserslist": [
     ">0.2%",
