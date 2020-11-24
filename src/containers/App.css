@@ -6,15 +6,15 @@
 }
 .chair{
 
+ 
+  
  margin-top: 5px;
  padding-top: 5px;
-  
- 
   
   background-color: rgb(24, 24, 22);
   
  
-  color: whitesmoke;
+  color:whitesmoke;
   height: 20px;
 }
 
@@ -25,18 +25,18 @@ header{
 header button{
   margin-right: 15px;
   border: none;
-  border-radius: 5px;
+  border-radius: 2px;
   display: inline-block;
   height: 36px;
   line-height: 36px;
-  padding: 0 1rem;
+  padding: 0 2rem;
   text-transform: uppercase;
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
   color: #fff;
   background-color: #26a69a;
   text-align: center;
-  letter-spacing: .1px;
+  letter-spacing: .5px;
   overflow: hidden;
   -webkit-user-select: none;
   -moz-user-select: none;
