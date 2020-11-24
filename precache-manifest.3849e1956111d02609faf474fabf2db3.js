@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "af0ebe0f6cefa43e66ad",
-    "url": "/react-football-master/static/css/main.39f0783c.chunk.css"
+    "revision": "feb0b9518e5137cfb515",
+    "url": "/react-football-master/static/css/main.277ce407.chunk.css"
   },
   {
-    "revision": "af0ebe0f6cefa43e66ad",
+    "revision": "feb0b9518e5137cfb515",
     "url": "/react-football-master/static/js/main.886b546e.chunk.js"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/react-football-master/static/media/SerieA.3ee74dc2.png"
   },
   {
-    "revision": "8de9cdf7901d9d5cea1ab96635858973",
+    "revision": "0964cc01d9e199804ca88514d5e8d428",
     "url": "/react-football-master/index.html"
   }
 ];
